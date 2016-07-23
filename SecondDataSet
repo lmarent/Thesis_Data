@@ -1,0 +1,16 @@
+The file RawData includes the following sheets:
+
+1. General Evolution: this data is a general overview of the data per month and hour of the day. 
+                      Data labaled with 2010 correspond to the information of the previous paper (the network in an early stage)
+                      Data labaled with 2011 correspond to the information included in the second paper (the network in a more mature stage)
+
+2. Preupgrade: this data is the series presented in the second paper for the preupgrade information. Per hour and Day
+3. PreUpgrade-OnWeek: this data is the series presented in the second paper for the preupgrade information for week days. Per hour and Day
+4. Preupgrade-Wends: this data is the series presented in the second paper for the preupgrade information for weekends. Per hour and Day
+5. PostUpgrade: this data is the series presented in the second paper for the postupgrade information. Per hour and Day
+6. Post-Upgrade-OnWeek: this data is the series presented in the second paper for the postupgrade information for week days. Per hour and Day
+7. Post-Upgrade-Wend: this data is the series presented in the second paper for the postupgrade information for weekends. Per hour and Day
+8. LongTerm: this data is the series presented in the second paper for the track after the estabilization period. Per hour and Day
+9. LongTerm-OnWeek: this data is the series presented in the second paper for the track after the estabilization period for week days. Per hour and Day
+10. LongTerm-Wend: this data is the series presented in the second paper for the track after the estabilization period for weekends. Per hour and Day
+11. Data By Application: Percentage of utilization per application for the second paper.
